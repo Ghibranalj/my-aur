@@ -1,0 +1,6 @@
+[submodule "rgb-tui-git"]
+	path = rgb-tui-git
+	url = ssh://aur@aur.archlinux.org/rgb-tui-git.git
+[submodule "rgb-tui-bin"]
+	path = rgb-tui-bin
+	url = ssh://aur@aur.archlinux.org/rgb-tui-bin.git
